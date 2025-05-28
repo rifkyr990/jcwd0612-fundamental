@@ -23,7 +23,7 @@ console.log(Math.round(25.3));
 console.log(Math.round(25.5));
 console.log(Math.floor(25.5));
 console.log(Math.pow(2,3));
-console.log(Math.sqrt(16));
+console.log(Math.sqrt(5));
 console.log(Math.cbrt(8));
 
 // MIN dan MAX
